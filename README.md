@@ -1,4 +1,4 @@
 # Microsoft-Fabric-End-to-End-Sales-Project
 
 # Solution Architecture Overview
-![Solution](https://github.com/Felipe30chaves/Azure-Data-Factory-End--To-End-Project-With-Azure-DevOps/blob/main/Files/Data%20Factory%20End%20-To-End%20Project%20With%20Azure%20DevOps.drawio.png)
+![Solution](https://github.com/Felipe30chaves/Microsoft-Fabric-End-to-End-Sales-Project/blob/main/Files/Solution%20Architecture%20Overview.png)
